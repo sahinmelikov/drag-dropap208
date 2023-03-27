@@ -1,0 +1,14 @@
+.cart{
+width: 280px;
+height: 540px;
+border: 1px solid #000000;
+border-radius: 0.25rem;
+margin-top: 50px;
+
+}
+body{
+background-color: #ccc;
+}
+.gap{
+gap: 50px;
+}
